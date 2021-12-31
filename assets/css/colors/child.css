@@ -1,0 +1,229 @@
+.color-pallet {
+                   width: 30px;
+    height: 30px;
+    border-radius: 4px;
+                margin-top: 20px !important;
+                margin-bottom: 20px !important;
+                float:left;
+                box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
+            }
+            .btn {
+    margin: 10px 0 0;
+}
+.child-dash-slide {
+    width: 100%;
+}
+.btn-wrapper {
+    float: left;
+    width: 100%;
+}
+.pallets-dots {
+    padding: 20px;
+    float: left;
+}
+.fix-sidebar .navbar-header .navbar-brand {
+    position: absolute;
+    width: 240px;
+    left: 0;
+    top: 0;
+}
+.custom-pagination {
+    margin: 10px auto;
+}
+.custom-pagination span {
+    width: auto !IMPORTANT;
+}
+
+.custom-pagination button {
+    width:  auto !IMPORTANT;
+}
+@media (max-width:639px){
+    .custom-pagination .hidden {display: none !IMPORTANT;}
+}
+.custom-pagination .hidden {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+.slimScrollDiv nav.sidebar-nav {
+    margin-top: 50px;
+}
+a.share-btn {
+    margin-top: 15px;
+    color: #f05a21 !important;
+}
+.pallet-card {
+    width: 100%;
+}
+h5.card-title {text-transform: capitalize;}
+.fix-sidebar .navbar-header .navbar-brand img {
+    height: 100% !IMPORTANT;
+    position: absolute;
+    width: auto !important;
+    top: 10px;
+    left: 50px;
+}
+.modal-dialog{
+        max-width: 800px !important;
+}
+.modal-body .card {
+    height: 600px !important;
+}
+.modal-body .card-body {
+    text-align: center;
+}
+
+.modal-body .card-body h5 {font-size: 20px;text-transform: capitalize;}
+.left-sidebar {
+    position: absolute;
+    width: 240px;
+    height: 100%;
+   
+    z-index: 20;
+    padding-top: 70px;
+    background: #fff;
+    -webkit-box-shadow: 1px 0px 20px rgba(0, 0, 0, 0.08);
+    box-shadow: 1px 0px 20px rgba(0, 0, 0, 0.08);
+}
+
+.btn-success {
+    background: #f05a21;
+    border: 1px solid #f05a21;
+}
+
+.page-wrapper {
+    padding-top: 60px;
+}
+
+.user-profile {
+    display: none;
+}
+
+.btn-primary,
+.btn-danger {
+    background: #f05a21;
+    border: 1px solid #f05a21;
+}
+
+.row.stu-row {
+    display: flex;
+    justify-content: center;
+}
+
+div#stu-profile-card {
+    min-width: 650px;
+    width: 100%;
+}
+
+div#stu-profile-card .grid.grid-cols-6.gap-6 {
+    grid-template-columns: 1fr;
+}
+
+div#stu-profile-card .tracking-widest {
+    background: #f05a21;
+    margin: 20px auto 0;
+}
+.child-footer {
+    height: auto;
+}
+.child-footer p {
+    margin-top: 10px;
+} 
+.pallet-card {
+    margin-top: 15px;
+}
+input#color-pallate-picker {
+    padding: 10px 0;
+}
+input[type="color"] {
+	border: none;
+}
+input[type="color"]::-webkit-color-swatch-wrapper {
+	padding: 0;
+}
+input[type="color"]::-webkit-color-swatch {
+	border: none;
+}
+@media(max-width:767px){
+    .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+
+li.nav-item .mdi-menu {
+    padding-left: 40px !important;
+}
+a.share-btn {
+    float: unset !important;
+    text-align: center;
+}
+
+.btn-wrapper {
+    float: unset;
+    text-align: center;
+}
+
+h5.card-title {
+    text-align: center;
+}
+}
+/* div#stu-profile-card .mt-2 {
+    display: flex;
+    justify-content: center;
+} */
+
+.child-dash-slide {
+    margin-bottom: 50px;
+}
+.row.stu-row .mt-5 {
+    margin-top: 0 !important;
+}
+.sm\:justify-between{
+    justify-content: normal !important;
+}
+.page-wrapper.profile-wrapper {
+    padding-top: 0;
+}
+.child-dash-slide .crousel-cartoon-cl .pad15 p {
+    margin: 0;
+    font-size: 16px;
+    padding: 5px;
+}
+.no-data-wrapper {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.no-data-wrapper img {
+    width: 130px;
+     margin: 0 auto;
+}
+.no-data h3 {
+    font-weight: 700;
+    color: #f05a21;
+    margin-top: 20px;
+    font-size: 27px;
+}
+/*.container-fluid.pt-2 {*/
+/*    width: 100%;*/
+/*    height: 50vh;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/
+@media(max-width:660px) and (min-width:400px){
+    div#stu-profile-card {
+    min-width: 400px;
+    width: 100%;
+}
+}
+@media(max-width:399px){
+    div#stu-profile-card {
+    min-width: auto;
+    width: 100%;
+}
+}

@@ -1,0 +1,72 @@
+.left-sidebar {
+    z-index: 20;
+    padding: 70px 20px 20px 20px;
+    background: #ffbd0a;
+    box-shadow: 1px 0 20px rgba(0,0,0,.08);
+    height: 100%;
+    position: fixed;
+    max-width: 225px;
+    width: 100%;
+}
+.remove-row-padding {
+    padding: 0;
+}
+.kids-image img {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto 10px;
+    border-radius: 100%;
+}
+.bgcolor-grey {
+    background: #f6f6f6;
+    
+}
+section.category-pannel-container {
+    padding: 0px 20px;
+    margin-top: 50px;
+}
+.today-plan-cards .card {
+    margin: 10px 30px 10px 0px;
+}
+.today-plan-cards .card-body {
+    padding: 0px;
+}
+section.skecthes-pannel-container {
+    padding: 0px 20px;
+}
+section.dashboard-container {
+    padding: 20px;
+}
+.main-wrapper {
+    padding: 15px;
+    height: 100%;
+}
+.kids-image h3 {
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+.siderbar-menu-container ul {
+    list-style: none;
+    margin-bottom: 0px;
+}
+
+.siderbar-menu-container ul li a {
+    color: #fff;
+}
+
+.siderbar-menu-container ul li a i {
+    padding-right: 10px;
+}
+
+.siderbar-menu-container ul li {
+    line-height: 2.5;
+    padding-bottom: 10px;
+}
+.kids-image {
+    margin-bottom: 50px;
+}
+.container-fluid.bgcolor-grey {
+    background: #f6f6f6;
+}

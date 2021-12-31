@@ -1,0 +1,32 @@
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/thecolouring/public_html/app/Mail/AdduserMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Mail/AdduserMail.php on line 10
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/thecolouring/public_html/app/Mail/Notification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Mail/Notification.php on line 11
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/thecolouring/public_html/app/Mail/Notification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Mail/Notification.php on line 11
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/thecolouring/public_html/app/Mail/AdduserMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Mail/AdduserMail.php on line 10
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/thecolouring/public_html/app/Mail/Notification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Mail/Notification.php on line 11
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/thecolouring/public_html/app/Mail/AdduserMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Mail/AdduserMail.php on line 10
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/thecolouring/public_html/app/Mail/AdduserMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Mail/AdduserMail.php on line 10
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/thecolouring/public_html/app/Mail/Notification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Mail/Notification.php on line 11

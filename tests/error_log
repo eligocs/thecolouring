@@ -1,0 +1,20 @@
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/thecolouring/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/tests/TestCase.php on line 7
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/thecolouring/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/tests/TestCase.php on line 7
+[29-Jan-2021 08:03:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/thecolouring/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/tests/TestCase.php on line 7
+[29-Jan-2021 08:04:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/thecolouring/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/tests/TestCase.php on line 7
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/thecolouring/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/tests/TestCase.php on line 7

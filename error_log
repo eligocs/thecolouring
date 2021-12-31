@@ -1,0 +1,104 @@
+[16-Mar-2021 06:54:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 91
+[16-Mar-2021 06:54:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 338
+[16-Mar-2021 06:55:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1481
+[16-Mar-2021 06:55:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php on line 235
+[16-Mar-2021 06:55:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 675
+[16-Mar-2021 06:55:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 797
+[16-Mar-2021 06:56:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1256
+[16-Mar-2021 06:56:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 397
+[16-Mar-2021 06:57:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 338
+[16-Mar-2021 06:57:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 155
+[16-Mar-2021 07:04:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 345
+[16-Mar-2021 07:04:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1881
+[16-Mar-2021 07:05:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 671
+[16-Mar-2021 07:05:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 345
+[16-Mar-2021 07:10:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 338
+[16-Mar-2021 07:10:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 345
+[16-Mar-2021 07:10:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1144
+[16-Mar-2021 07:10:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 391
+[16-Mar-2021 07:11:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/Processor.php on line 16
+[16-Mar-2021 07:11:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 671
+[16-Mar-2021 07:13:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 345
+[16-Mar-2021 07:13:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 345
+[16-Mar-2021 07:13:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 338
+[16-Mar-2021 07:13:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 651
+[16-Mar-2021 07:14:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 65
+[16-Mar-2021 07:14:15 UTC] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected end of file in /home/thecolouring/public_html/storage/framework/views/24c290e7bf3cfd3c74f51fdd2c4723c84c8be079.php:330
+Stack trace:
+#0 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/thecolour...', Array)
+#2 /home/thecolouring/public_html/vendor/livewire/livewire/src/ComponentConcerns/RendersLivewireComponents.php(37): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/thecolour...', Array)
+#3 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Livewire\CompilerEngineForIgnition->evaluatePath('/home/thecolour...', Array)
+#4 /home/thecolouring/public_html/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\ in /home/thecolouring/public_html/resources/views/layouts/front.blade.php on line 330
+[16-Mar-2021 07:14:15 UTC] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected end of file in /home/thecolouring/public_html/storage/framework/views/24c290e7bf3cfd3c74f51fdd2c4723c84c8be079.php:330
+Stack trace:
+#0 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/thecolour...', Array)
+#2 /home/thecolouring/public_html/vendor/livewire/livewire/src/ComponentConcerns/RendersLivewireComponents.php(37): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/thecolour...', Array)
+#3 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Livewire\CompilerEngineForIgnition->evaluatePath('/home/thecolour...', Array)
+#4 /home/thecolouring/public_html/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\ in /home/thecolouring/public_html/resources/views/layouts/front.blade.php on line 330
+[16-Mar-2021 07:14:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 220
+[16-Mar-2021 07:14:22 UTC] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected end of file in /home/thecolouring/public_html/storage/framework/views/24c290e7bf3cfd3c74f51fdd2c4723c84c8be079.php:330
+Stack trace:
+#0 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/thecolour...', Array)
+#2 /home/thecolouring/public_html/vendor/livewire/livewire/src/ComponentConcerns/RendersLivewireComponents.php(37): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/thecolour...', Array)
+#3 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Livewire\CompilerEngineForIgnition->evaluatePath('/home/thecolour...', Array)
+#4 /home/thecolouring/public_html/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\ in /home/thecolouring/public_html/resources/views/layouts/front.blade.php on line 330
+[16-Mar-2021 07:14:22 UTC] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected end of file in /home/thecolouring/public_html/storage/framework/views/24c290e7bf3cfd3c74f51fdd2c4723c84c8be079.php:330
+Stack trace:
+#0 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/thecolour...', Array)
+#2 /home/thecolouring/public_html/vendor/livewire/livewire/src/ComponentConcerns/RendersLivewireComponents.php(37): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/thecolour...', Array)
+#3 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Livewire\CompilerEngineForIgnition->evaluatePath('/home/thecolour...', Array)
+#4 /home/thecolouring/public_html/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\ in /home/thecolouring/public_html/resources/views/layouts/front.blade.php on line 330
+[16-Mar-2021 08:02:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 53248 bytes) in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 345
+[16-Mar-2021 08:02:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 28672 bytes) in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 343
+[16-Mar-2021 08:02:36 UTC] PHP Warning:  Packets out of order. Expected 61 received 164. Packet size=0 in Unknown on line 0
+[16-Mar-2021 08:02:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16384 bytes) in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 345
+[16-Mar-2021 08:02:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 28672 bytes) in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 343
+[16-Mar-2021 08:02:43 UTC] PHP Warning:  Packets out of order. Expected 59 received 162. Packet size=0 in Unknown on line 0
+[16-Mar-2021 08:04:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'slug' in 'where clause' in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php:338
+Stack trace:
+#0 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(338): PDO->prepare('select * from `...')
+#1 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(671): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Quer in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678
+[16-Mar-2021 08:04:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'slug' in 'where clause' in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php:338
+Stack trace:
+#0 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(338): PDO->prepare('select * from `...')
+#1 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(671): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Quer in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678
+[16-Mar-2021 08:04:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'slug' in 'where clause' in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php:338
+Stack trace:
+#0 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(338): PDO->prepare('select * from `...')
+#1 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(671): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Quer in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678
+[16-Mar-2021 08:04:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'slug' in 'where clause' in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php:338
+Stack trace:
+#0 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(338): PDO->prepare('select * from `...')
+#1 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(671): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Quer in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678
+[16-Mar-2021 08:04:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'slug' in 'where clause' in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php:338
+Stack trace:
+#0 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(338): PDO->prepare('select * from `...')
+#1 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(671): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Quer in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678
+[16-Mar-2021 08:04:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'slug' in 'where clause' in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php:338
+Stack trace:
+#0 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(338): PDO->prepare('select * from `...')
+#1 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(671): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Quer in /home/thecolouring/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678
+[17-Mar-2021 12:05:23 UTC] PHP Fatal error:  Cannot declare class App\Http\Livewire\Admin\Svg\Upload, because the name is already in use in /home/thecolouring/public_html/storage/framework/views/64587f4c52e6c38f6cd4c54adc32723a06a438cd.php on line 13
+[17-Mar-2021 12:05:28 UTC] PHP Fatal error:  Cannot declare class App\Http\Livewire\Admin\Svg\Upload, because the name is already in use in /home/thecolouring/public_html/storage/framework/views/64587f4c52e6c38f6cd4c54adc32723a06a438cd.php on line 13

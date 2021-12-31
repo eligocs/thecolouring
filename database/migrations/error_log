@@ -1,0 +1,432 @@
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_21_104247_create_sessions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_21_104247_create_sessions_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_22_110243_create_svg_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_22_110243_create_svg_categories_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_23_104912_create_svg_files_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_23_104912_create_svg_files_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_26_112547_create_user_svgs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_26_112547_create_user_svgs_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_24_111938_create_colors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_24_111938_create_colors_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_063048_add_google_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_063048_add_google_id_to_users_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_063137_add_facebook_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_063137_add_facebook_id_to_users_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_06_051824_create_logo_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_06_051824_create_logo_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_123812_create_homebanner_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_123812_create_homebanner_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_010755_create_homewelcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_010755_create_homewelcomes_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_022851_create_cartoonimages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_022851_create_cartoonimages_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_144419_create_childrenheadings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_144419_create_childrenheadings_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_020323_create_cartoonheadings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_020323_create_cartoonheadings_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_144522_create_childrenimages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_144522_create_childrenimages_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_10_131720_create_bannercards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_10_131720_create_bannercards_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_10_142326_create_footers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_10_142326_create_footers_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_13_055528_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_13_055528_create_blogs_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_14_053453_create_blog_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_14_053453_create_blog_categories_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_15_051559_create_pages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_15_051559_create_pages_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_28_053937_create_terms_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_28_053937_create_terms_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_18_073624_create_contact_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_18_073624_create_contact_data_table.php on line 7
+[29-Jan-2021 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_28_053948_create_privacies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_28_053948_create_privacies_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_21_104247_create_sessions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_21_104247_create_sessions_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_22_110243_create_svg_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_22_110243_create_svg_categories_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_23_104912_create_svg_files_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_23_104912_create_svg_files_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_24_111938_create_colors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_24_111938_create_colors_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_26_112547_create_user_svgs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_26_112547_create_user_svgs_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_063048_add_google_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_063048_add_google_id_to_users_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_063137_add_facebook_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_063137_add_facebook_id_to_users_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_123812_create_homebanner_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_123812_create_homebanner_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_020323_create_cartoonheadings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_020323_create_cartoonheadings_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_022851_create_cartoonimages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_022851_create_cartoonimages_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_010755_create_homewelcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_010755_create_homewelcomes_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_06_051824_create_logo_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_06_051824_create_logo_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_144419_create_childrenheadings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_144419_create_childrenheadings_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_144522_create_childrenimages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_144522_create_childrenimages_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_10_131720_create_bannercards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_10_131720_create_bannercards_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_10_142326_create_footers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_10_142326_create_footers_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_13_055528_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_13_055528_create_blogs_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_14_053453_create_blog_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_14_053453_create_blog_categories_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_15_051559_create_pages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_15_051559_create_pages_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_18_073624_create_contact_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_18_073624_create_contact_data_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_28_053937_create_terms_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_28_053937_create_terms_table.php on line 7
+[29-Jan-2021 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_28_053948_create_privacies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_28_053948_create_privacies_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_21_104247_create_sessions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_21_104247_create_sessions_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_23_104912_create_svg_files_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_23_104912_create_svg_files_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_22_110243_create_svg_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_22_110243_create_svg_categories_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_24_111938_create_colors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_24_111938_create_colors_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_26_112547_create_user_svgs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_26_112547_create_user_svgs_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_063137_add_facebook_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_063137_add_facebook_id_to_users_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_123812_create_homebanner_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_123812_create_homebanner_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_063048_add_google_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_063048_add_google_id_to_users_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_06_051824_create_logo_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_06_051824_create_logo_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_022851_create_cartoonimages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_022851_create_cartoonimages_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_020323_create_cartoonheadings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_020323_create_cartoonheadings_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_010755_create_homewelcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_010755_create_homewelcomes_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_144419_create_childrenheadings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_144419_create_childrenheadings_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_144522_create_childrenimages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_144522_create_childrenimages_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_10_131720_create_bannercards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_10_131720_create_bannercards_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_10_142326_create_footers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_10_142326_create_footers_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_13_055528_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_13_055528_create_blogs_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_14_053453_create_blog_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_14_053453_create_blog_categories_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_15_051559_create_pages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_15_051559_create_pages_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_28_053937_create_terms_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_28_053937_create_terms_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_18_073624_create_contact_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_18_073624_create_contact_data_table.php on line 7
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_28_053948_create_privacies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_28_053948_create_privacies_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_21_104247_create_sessions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_21_104247_create_sessions_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_23_104912_create_svg_files_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_23_104912_create_svg_files_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_22_110243_create_svg_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_22_110243_create_svg_categories_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_24_111938_create_colors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_24_111938_create_colors_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2020_12_26_112547_create_user_svgs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2020_12_26_112547_create_user_svgs_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_063048_add_google_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_063048_add_google_id_to_users_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_063137_add_facebook_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_063137_add_facebook_id_to_users_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_05_123812_create_homebanner_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_05_123812_create_homebanner_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_06_051824_create_logo_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_06_051824_create_logo_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_010755_create_homewelcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_010755_create_homewelcomes_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_020323_create_cartoonheadings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_020323_create_cartoonheadings_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_022851_create_cartoonimages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_022851_create_cartoonimages_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_144419_create_childrenheadings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_144419_create_childrenheadings_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_09_144522_create_childrenimages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_09_144522_create_childrenimages_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_10_131720_create_bannercards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_10_131720_create_bannercards_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_10_142326_create_footers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_10_142326_create_footers_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_13_055528_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_13_055528_create_blogs_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_14_053453_create_blog_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_14_053453_create_blog_categories_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_18_073624_create_contact_data_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_18_073624_create_contact_data_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_15_051559_create_pages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_15_051559_create_pages_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_28_053937_create_terms_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_28_053937_create_terms_table.php on line 7
+[29-Jan-2021 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/thecolouring/public_html/database/migrations/2021_01_28_053948_create_privacies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/database/migrations/2021_01_28_053948_create_privacies_table.php on line 7

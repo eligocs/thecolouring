@@ -1,0 +1,30 @@
+[12-Feb-2021 08:37:23 UTC] WordPress database error Unknown column 'tcl_' in 'field list' for query SELECT tcl_
+[12-Feb-2021 10:31:16 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:32:43 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:33:03 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:35:13 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:35:24 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:36:39 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:37:45 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:39:42 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:40:06 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:41:42 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:42:37 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:43:42 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:51:28 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:52:08 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:56:06 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:56:36 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:58:18 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 10:58:45 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 11:00:09 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2097152 bytes) in /home/thecolouring/public_html/blog/wp-includes/functions.php on line 3953
+[12-Feb-2021 12:10:27 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[12-Feb-2021 12:12:19 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[12-Feb-2021 12:12:34 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[12-Feb-2021 12:13:30 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[12-Feb-2021 13:40:21 UTC] PHP Warning:  substr() expects parameter 3 to be int, string given in /home/thecolouring/public_html/blog/wp-content/plugins/blog-designer-for-elementor/bdfe.php on line 284
+[12-Feb-2021 13:40:21 UTC] PHP Warning:  substr() expects parameter 3 to be int, string given in /home/thecolouring/public_html/blog/wp-content/plugins/blog-designer-for-elementor/bdfe.php on line 284
+[12-Feb-2021 13:42:17 UTC] PHP Warning:  substr() expects parameter 3 to be int, string given in /home/thecolouring/public_html/blog/wp-content/plugins/blog-designer-for-elementor/bdfe.php on line 284
+[12-Feb-2021 13:42:17 UTC] PHP Warning:  substr() expects parameter 3 to be int, string given in /home/thecolouring/public_html/blog/wp-content/plugins/blog-designer-for-elementor/bdfe.php on line 284
+[12-Feb-2021 13:49:23 UTC] PHP Warning:  substr() expects parameter 3 to be int, string given in /home/thecolouring/public_html/blog/wp-content/plugins/blog-designer-for-elementor/bdfe.php on line 284
+[12-Feb-2021 13:49:23 UTC] PHP Warning:  substr() expects parameter 3 to be int, string given in /home/thecolouring/public_html/blog/wp-content/plugins/blog-designer-for-elementor/bdfe.php on line 284

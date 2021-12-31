@@ -1,0 +1,20 @@
+[29-Jan-2021 08:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\CreatesNewUsers' not found in /home/thecolouring/public_html/app/Actions/Fortify/CreateNewUser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Actions/Fortify/CreateNewUser.php on line 13
+[29-Jan-2021 08:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\ResetsUserPasswords' not found in /home/thecolouring/public_html/app/Actions/Fortify/ResetUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Actions/Fortify/ResetUserPassword.php on line 9
+[29-Jan-2021 08:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserPasswords' not found in /home/thecolouring/public_html/app/Actions/Fortify/UpdateUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Actions/Fortify/UpdateUserPassword.php on line 9
+[29-Jan-2021 08:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserProfileInformation' not found in /home/thecolouring/public_html/app/Actions/Fortify/UpdateUserProfileInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Actions/Fortify/UpdateUserProfileInformation.php on line 10
+[29-Jan-2021 08:03:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\ResetsUserPasswords' not found in /home/thecolouring/public_html/app/Actions/Fortify/ResetUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Actions/Fortify/ResetUserPassword.php on line 9

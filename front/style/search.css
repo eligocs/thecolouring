@@ -1,0 +1,57 @@
+      .top-bar:before {
+            position: absolute;
+            height: 4px;
+            width: 100%;
+            top: 0;
+            background-repeat: no-repeat;
+            content: "";
+            display: block;
+            background: url(img/rainbowstripe.jpg) repeat-x;
+        }
+        
+        .hero-section {
+            min-height: 400px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-position: inherit;
+            background-repeat: no-repeat;
+        }
+        
+        .hero-section h1 {
+            color: #fff;
+            font-size: 60px;
+        }
+        
+        .custom-checkbox .custom-control-input:checked~.custom-control-label::after {
+            background-color: #f1693b;
+            border-radius: 3px;
+            box-shadow: unset !important;
+        }
+        
+        .custom-control-input:focus~.custom-control-label::before {
+            box-shadow: unset !important;
+        }
+        .searched-category-filter {
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+        .sidebar-filter {
+            padding-top: 100px;
+           border-right: 1px solid #eee;
+        }
+        
+        .sidebar-filter h6 {
+            padding-left: 8px;
+            font-weight: 400 !important;
+            color: #f1693b;
+            font-size: 1.45em;
+        }
+        
+        label.custom-control-label {
+            cursor: pointer;
+        }
+        
+        .custom-checkbox .custom-control-input:checked~.custom-control-label {
+            color: #f1693b;
+        }

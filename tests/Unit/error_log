@@ -1,0 +1,12 @@
+[29-Jan-2021 08:01:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/thecolouring/public_html/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/tests/Unit/ExampleTest.php on line 7
+[29-Jan-2021 08:02:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/thecolouring/public_html/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/tests/Unit/ExampleTest.php on line 7
+[29-Jan-2021 08:04:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/thecolouring/public_html/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/tests/Unit/ExampleTest.php on line 7

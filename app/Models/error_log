@@ -1,0 +1,364 @@
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Bannercard.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Bannercard.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Blog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Blog.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/BlogCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/BlogCategory.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Cartoonimage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Cartoonimage.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Childrenimage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Childrenimage.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Cartoonheading.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Cartoonheading.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Color.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Color.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Childrenheading.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Childrenheading.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/ContactData.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/ContactData.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Footer.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Footer.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Footersocial.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Footersocial.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Homewelcome.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Homewelcome.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Homebanner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Homebanner.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Logo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Logo.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Page.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Page.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SeoSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SeoSetting.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Privacy.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Privacy.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SvgCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SvgCategory.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SvgFile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SvgFile.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Terms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Terms.php on line 8
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/thecolouring/public_html/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/User.php on line 13
+[29-Jan-2021 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/UserSvg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/UserSvg.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Bannercard.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Bannercard.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/BlogCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/BlogCategory.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Blog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Blog.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Cartoonimage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Cartoonimage.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Cartoonheading.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Cartoonheading.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Childrenheading.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Childrenheading.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Childrenimage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Childrenimage.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Color.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Color.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Footer.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Footer.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Footersocial.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Footersocial.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Homebanner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Homebanner.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/ContactData.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/ContactData.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Logo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Logo.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Homewelcome.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Homewelcome.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Page.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Page.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Privacy.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Privacy.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SeoSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SeoSetting.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SvgCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SvgCategory.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/thecolouring/public_html/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/User.php on line 13
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Terms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Terms.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SvgFile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SvgFile.php on line 8
+[29-Jan-2021 08:02:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/UserSvg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/UserSvg.php on line 8
+[29-Jan-2021 08:03:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Blog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Blog.php on line 8
+[29-Jan-2021 08:03:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Footersocial.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Footersocial.php on line 8
+[29-Jan-2021 08:03:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/BlogCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/BlogCategory.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Blog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Blog.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Bannercard.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Bannercard.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Cartoonimage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Cartoonimage.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/BlogCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/BlogCategory.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Cartoonheading.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Cartoonheading.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Childrenimage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Childrenimage.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Childrenheading.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Childrenheading.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Color.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Color.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/ContactData.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/ContactData.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Footer.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Footer.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Footersocial.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Footersocial.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Homebanner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Homebanner.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Homewelcome.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Homewelcome.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Logo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Logo.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Page.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Page.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Privacy.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Privacy.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SeoSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SeoSetting.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SvgCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SvgCategory.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SvgFile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SvgFile.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Terms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Terms.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/UserSvg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/UserSvg.php on line 8
+[29-Jan-2021 08:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/thecolouring/public_html/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/User.php on line 13
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Bannercard.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Bannercard.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Blog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Blog.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/BlogCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/BlogCategory.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Cartoonimage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Cartoonimage.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Childrenheading.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Childrenheading.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Cartoonheading.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Cartoonheading.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Childrenimage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Childrenimage.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/ContactData.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/ContactData.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Color.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Color.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Footersocial.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Footersocial.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Footer.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Footer.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Homebanner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Homebanner.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Homewelcome.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Homewelcome.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Logo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Logo.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Page.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Page.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Privacy.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Privacy.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SvgCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SvgCategory.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SeoSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SeoSetting.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/Terms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/Terms.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/SvgFile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/SvgFile.php on line 8
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/thecolouring/public_html/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/User.php on line 13
+[29-Jan-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/thecolouring/public_html/app/Models/UserSvg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thecolouring/public_html/app/Models/UserSvg.php on line 8

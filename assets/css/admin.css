@@ -1,0 +1,112 @@
+.topbar img.light-logo {
+    position: absolute;
+    width: auto !important;
+    top: 7px;
+    left: 50px;
+}
+h5.card-title {
+    text-transform: capitalize;
+}
+button.btn {
+    margin: 5px;
+}
+.wire-preloader{
+    background:transparent !important;
+}
+.circular {
+    animation: rotate 2s linear infinite;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+     bottom: unset; 
+    left: 37%;
+     right: unset; 
+    margin: auto;
+    transform: translate(-50%, -50%) !important;
+}
+.pswd_group{
+    display: flex;
+}
+.modal-footer {
+    justify-content: center;
+}
+input[type=password] {
+    border-radius: 5px 0px 0px 5px !important;
+}
+.viewPassword {
+    display: flex !IMPORTANT;
+    width: 50px;
+    background: #eaeaea;
+    border-radius: 0px 4px 4px 0;
+    box-shadow: 0px 2px 4px 0px rgb(0 0 0 / 6%);
+    cursor: pointer;
+    color: #212529;
+    font-size: 17px !IMPORTANT;
+    justify-content: center;
+    align-items: center;
+}
+.top-banner-heading {
+    width: 100%;
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.view-profile-conatiner {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 800px;
+        padding-left: 200px;
+}
+.view-profile-conatiner .md\:grid{display: flex !important;
+    flex-direction: column !important;}
+    
+.view-profile-conatiner form {
+    margin-bottom: 20px;
+}
+.view-profile-conatiner .grid-cols-6{
+    grid-template-columns: 1fr !important;
+}
+.btn:hover{
+    color:#fff !important;
+}
+.view-profile-conatiner .justify-end{
+    justify-content:start !important;
+}
+.view-profile-conatiner .text-white {
+    color: #ffffff !important;
+    background: #f05a21;
+}
+.view-profile-conatiner .mt-5, .my-5{
+        margin-top: 0 !important;
+}
+.card-body h3 {
+    padding-left: 15px;
+}
+.modal-dialog{
+    max-width: 700px !important;
+}
+.updatebtn {
+    margin-left: 13px !important;
+}
+.updatebtn {
+    margin-bottom: 20px;
+}
+@media(min-width:767px) and (max-width:1170px){
+    .view-profile-conatiner{
+        padding-left: 60px;
+    }
+}
+
+@media(max-width:767px){
+    .view-profile-conatiner {
+    padding-top: 80px;
+}
+i.mdi.mdi-menu {
+    padding-left: 64px !important;
+}
+.view-profile-conatiner{
+        padding-left: 0px;
+    }
+}
